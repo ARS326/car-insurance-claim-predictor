@@ -4,6 +4,8 @@ This repository contains a **Streamlit** web application for predicting whether 
 The predictive model is trained using **machine learning techniques** for classification.
 It also contains the main model as **pipeline.pkl**, a file **main.py** to run the prediction in python ternimal, and a jupyter notebook **modelling_master.ipynb** that contains all the data representations and model training codes. 
 
+You can access the web-app by clickinh [here](https://car-ins-claim-pred.streamlit.app/).
+
 ---
 
 ##  Business Problem
@@ -55,9 +57,10 @@ After experimentation, the best-performing model was selected and saved as `pipe
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 The trained pipeline (model + preprocessing) is integrated into a **Streamlit** app for real-time predictions.
+
 
 ### To run locally:
 ```bash
