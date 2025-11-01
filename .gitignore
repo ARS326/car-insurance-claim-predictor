@@ -1,0 +1,6 @@
+.venv
+.idea
+__pycache__
+model.pkl
+preprocessor.pkl
+util_manipulation.py
