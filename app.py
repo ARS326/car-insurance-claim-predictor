@@ -26,7 +26,7 @@ pipeline = joblib.load("pipeline.pkl")
 
 st.set_page_config(page_title="Car Insurance Claim Predictor", layout="wide")
 
-st.title("🚗 Car Insurance Claim Predictor")
+st.title(" Car Insurance Claim Predictor")
 st.markdown("Fill in the details below to check if a claim is likely to occur.")
 
 # --- User Input Section ---
